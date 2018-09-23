@@ -1,7 +1,7 @@
 Lucky?
 ======
 
-Points: 50
+Points: 50  
 Solves: 139
 
 

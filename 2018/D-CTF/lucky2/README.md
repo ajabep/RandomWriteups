@@ -1,7 +1,7 @@
 Even more lucky?
 ================
 
-Points: 50
+Points: 50  
 Solves: 119
 
 Description
